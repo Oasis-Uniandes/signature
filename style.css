@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+.name {
+    font-weight: bolder;
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.rol {
+    margin: .25rem 0 0 0;
+}
+
+.email {
+    margin: .5rem 0;
+    color: #719dee;
+    font-size: 0.8rem;
+}
