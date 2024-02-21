@@ -3,9 +3,9 @@ const finalRol = document.getElementById("rol");
 const finalEmail = document.getElementById("email");
 
 const controls = [
-  { control: finalName, text: "Nombre" },
-  { control: finalRol, text: "Rol" },
-  { control: finalEmail, text: "Correo electrónico" },
+  { control: finalName, text: "nombre" },
+  { control: finalRol, text: "cargo/rol" },
+  { control: finalEmail, text: "email" },
 ];
 
 controls.forEach((item) => {
@@ -16,9 +16,9 @@ controls.forEach((item) => {
     console.log(element);
   });
 
-  item.control.addEventListener("focus", (element) => {
-    if (element.target.innerHTML.includes("[")) element.target.innerHTML = "";
-  });
+ // item.control.addEventListener("focus", (element) => {
+ //   if (element.target.innerHTML.includes("[")) element.target.innerHTML = "";
+ // });
 
   item.control.addEventListener("focusout", (element) => {
     if (element.target.innerHTML === "")

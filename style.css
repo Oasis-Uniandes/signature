@@ -17,5 +17,8 @@ html {
 .email {
     margin: .5rem 0;
     color: #719dee;
-    font-size: 0.8rem;
+}
+
+.texto {
+    padding-left: 1rem;
 }
