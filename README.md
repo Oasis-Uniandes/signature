@@ -7,7 +7,7 @@ This email signature template is ready to use for members of Oasis Uniandes.
 1. **Visit the signature page:**  https://oasis-uniandes.github.io/signature/
 2. **Edit the fields:** Click on the text fields within the signature preview and replace the placeholders with your own name, role/title, and email address.
 3. **Copy the HTML code:** 
-   * Click the **"Copy Code"** button below the signature preview.
+   Ctrl + A (Windows) or Cmd + A (Mac) to select all the HTML code, then Ctrl + C (Windows) or Cmd + C (Mac) to copy the code.
 4. **Paste into your email client's signature settings:**
     * **Gmail:** Settings -> General -> Signature -> Paste the HTML code into the signature box.
     * **Outlook:**  File -> Options -> Mail -> Signatures -> Paste the HTML code into the signature box.
